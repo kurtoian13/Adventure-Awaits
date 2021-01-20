@@ -1,3 +1,15 @@
+
+DOWNLOAD ZIP OR CLONE
+
+RUN NPM INSTALL 
+
+RUN NPM START 
+
+- SITE WILL OPEN ON LOCAL HOST 3000
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
@@ -33,9 +45,3 @@ They are preconfigured and hidden so that you can focus on the code.
 
 Create a project, and you’re good to go.
 
-DOWNLOAD ZIP OR CLONE
-
-RUN NPM INSTALL FOR NODE MODULES
-
-RUN NPM START 
-- SITE WILL OPEN ON LOCAL HOST 3000
